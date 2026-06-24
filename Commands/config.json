@@ -1,0 +1,14 @@
+{
+  "command_id": "CFG-CMD-20260624-001",
+  "command": "update_config",
+  "sleep_interval_minutes": 30,
+  "auto_irrigation_enabled": true,
+  "moisture_threshold": 25,
+  "moisture_rearm_threshold": 30,
+  "pump_min_battery_voltage": 3.7,
+  "pump_max_run": 40,
+  "irrigation_duration_sec": 20,
+  "block_window_enabled": true,
+  "block_start": "18:00",
+  "block_end": "07:00"
+}
