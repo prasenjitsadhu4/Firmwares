@@ -1,7 +1,0 @@
-{
-  "command_id": "OTA-CMD-20260624-001",
-  "command": "ota_update",
-  "version": "1.0.1",
-  "url": "https://github.com/prasenjitsadhu4/Firmwares/releases/download/v1.0.6/firmware.bin",
-  "force": true
-}
